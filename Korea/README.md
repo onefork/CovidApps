@@ -10,3 +10,4 @@
 
 - [Open COVID-19 Data Working Group](https://github.com/beoutbreakprepared/nCoV2019) - Detailed Epidemiological Data from the COVID-19 Outbreak
 - [DS4C](https://www.kaggle.com/kimjihoo/coronavirusdataset) - Data Science for COVID-19 in South Korea
+- [Ownership rate of smartphones in South Korea by age group](https://www.statista.com/statistics/897195/south-korea-smartphone-ownership-by-age-group/)
